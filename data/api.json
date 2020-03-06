@@ -1,0 +1,84 @@
+{
+ "animals": [
+   {
+     "name": "Rex",
+     "species": "dog",
+     "age" : 9,
+     "id": 1
+   },
+   {
+     "name": "kitty",
+     "species": "cat",
+     "age" : 2,
+     "id": 2
+   },
+   {
+     "name": "Rex",
+     "species": "turtle",
+     "age" : 120,
+     "id": 3
+   }
+ ],
+  "weather": [
+   {
+     "city": "London",
+     "temperature": "10",
+     "humidity": "80%",
+     "unit": "degrees",
+     "id": 1
+   },
+   {
+     "city": "Slough",
+     "temperature": "15",
+     "humidity": "60%",
+     "unit": "degrees",
+     "id": 2
+   },
+   {
+     "city": "Constanta",
+     "temperature": "25",
+     "humidity": "20%",
+     "unit": "degrees",
+     "id": 3
+   },
+   {
+     "city": "Bucuresti",
+     "temperature": "18",
+     "humidity": "2%",
+     "unit": "degrees",
+     "id": 4
+   }
+ ],
+ "food": [
+   {
+     "name": "chick wings",
+     "rating": 5,
+     "spice-level": "medium",
+     "id": 1
+   },
+   {
+     "name": "chicken rice",
+     "rating": 5,
+     "spice-level": "hot",
+     "id": 2
+   },
+   {
+     "name": "soupe",
+     "rating": 5,
+     "spice-level": "volcano",
+     "id": 3
+   },
+   {
+     "name": "chick wings",
+     "rating": 5,
+     "spice-level": "super hot",
+     "id": 4
+   },
+   {
+     "name": "chick wings",
+     "rating": 5,
+     "spice-level": "medium",
+     "id": 5
+   }
+ ]
+}
