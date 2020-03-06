@@ -1,3 +1,24 @@
 #view::before {
   content: 'Wait, Loading!!!!:)'
 }
+
+#view.view::before {
+  content: '';
+}
+
+thead {
+  background: black;
+  color: white;
+}
+
+tbody {
+  background: lightgrey;
+}
+
+table {
+  margin-bottom: 20px;
+}
+
+td {
+  padding: 10px 20px;
+}
